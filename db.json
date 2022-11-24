@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "Prafulltej",
+      "lastname": "Dnyandev",
+      "email": "theurkar@gmail.com",
+      "mobile": "9552846848",
+      "salary": "50000"
+    },
+    {
+      "id": 2,
+      "firstname": "Dayanand",
+      "lastname": "Pawar",
+      "email": "Dayanand Pawar",
+      "mobile": "99999",
+      "salary": "20000"
+    },
+    {
+      "id": 3,
+      "firstname": "Manoj",
+      "lastname": "theurkar",
+      "email": "manu@gmail.com",
+      "mobile": "32732",
+      "salary": "2123"
+    }
+  ],
+  "SignupUsers": [
+    {
+      "fullname": "Prafulltej Dnyandev Theurkar",
+      "mobileno": 123456789,
+      "emailid": "praful@gmail.com",
+      "passward": "1234",
+      "id": 1
+    },
+    {
+      "fullname": "sanjay ",
+      "mobileno": 124,
+      "emailid": "sanjay@gmail.com",
+      "passward": "1234",
+      "id": 2
+    },
+    {
+      "fullname": "Prashant Theurkar",
+      "mobileno": 12345567,
+      "emailid": "prashant@gmail.com",
+      "passward": "1234",
+      "id": 3
+    },
+    {
+      "fullname": "Dayanand Pawar",
+      "mobileno": 9324038244,
+      "emailid": "dayanandhpawar@gmail.com",
+      "passward": "daya",
+      "id": 4
+    },
+    {
+      "fullname": "Manoj Theurkar",
+      "mobileno": 8238732873,
+      "emailid": "manu@gmail.com",
+      "passward": "1234",
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
